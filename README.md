@@ -21,9 +21,9 @@ Tkinter
 YOLOv8 (Ultralytics)
 
 Project Structure:
-├── main.py          # GUI and detection pipeline
-├── utils.py         # Bounding box rendering utilities
-├── yolov8n.pt       # Pretrained YOLOv8 model (download separately)
+main.py          # GUI and detection pipeline
+utils.py         # Bounding box rendering utilities
+yolov8n.pt       # Pretrained YOLOv8 model (download separately)
 
 How It Works:
 User selects an image using the GUI.
