@@ -33,7 +33,7 @@ Users can zoom and pan to inspect detections interactively.
 
 Installation:
 Step 1: Clone Repository
-git clone https://github.com/5izz18/yolov8-detection-gui.git
+git clone [https://github.com/5izz18/yolov8-detection-gui.git](https://github.com/5izz18/Heterogenous-Objects-Detection-System.git)
 cd yolov8-detection-gui
 Step 2: Install Dependencies
 pip install ultralytics opencv-python numpy
